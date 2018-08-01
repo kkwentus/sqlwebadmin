@@ -1,0 +1,2 @@
+Write-Output "docker run -e "HAB_SQLWEBADMIN=netfx3_source='c:/sxs'" --volume c:/sxs:c:/sxs -it <your origin>/sqlwebadmin'"
+docker run -e "HAB_SQLWEBADMIN=netfx3_source='c:/sxs'" --volume c:/sxs:c:/sxs -it kkwentus/sqlwebadmin
