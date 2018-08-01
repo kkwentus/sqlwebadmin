@@ -1,5 +1,5 @@
 $pkg_name="sqlwebadmin"
-$pkg_origin="mwrock"
+$pkg_origin="kkwentus"
 $pkg_version="0.1.0"
 $pkg_maintainer="Matt Wrock"
 $pkg_license=@('MS-PL')

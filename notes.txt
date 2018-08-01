@@ -1,0 +1,8 @@
+For the docker env, all that needs to be done to run the containers already created is:
+
+docker-compose up
+
+To run studio in windows natively:  hab studio enter -windows
+to run in windows, but using a docker container for the studio: hab studio enter 
+
+Get-SupervisorLog in hab studio to see the output
